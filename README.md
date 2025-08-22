@@ -10,14 +10,6 @@ This project is for **learning purposes**, focusing on practicing:
 
 ---
 
-## 📱 Preview
-
-<p align="center">
-  <img src="docs/screenshot.png" alt="Pokedex Screenshot" width="300"/>
-</p>
-
----
-
 ## 📂 Project Structure
 
 The project follows a **Clean Architecture** style:
